@@ -2,7 +2,7 @@ export interface IRecipe {
   title: string;
   category: string;
   minutes: number;
-  indredients: string[];
+  ingredients: string[];
   instructions: string[];
   prompt: string;
   stars: number;
